@@ -23,7 +23,7 @@ Features:
 ->Restaurant reviews
 
 Team Details:
-Team Size:6
+Team Size:7
 
 1.PG-2223-ETSD-637
   SOBANAPURAM YASHWANT SAI
