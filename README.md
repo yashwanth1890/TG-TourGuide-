@@ -45,3 +45,15 @@ Team Size:7
   
 7.PG-2223-ETSD-865
   Y Vivek Darshan
+  
+  
+  
+  
+ Packages uses:
+1.	npm install bootstrap
+2.	npm install react-bootstrap bootstrap
+3.	npm i react-scripts
+4.	npm install --save react react-dom react-scripts
+5.	npm i react-router-dom
+6.	npm install @material-ui/core
+
